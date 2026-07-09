@@ -1,0 +1,3 @@
+@echo off
+echo Mengupdate data galeri...
+powershell -ExecutionPolicy Bypass -File update_data.ps1
